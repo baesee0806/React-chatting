@@ -1,9 +1,11 @@
+import Login from "./component/login/Login"
+
 
 function App() {
   return (
-   <>
-   <h1>Type</h1>
-   </>
+   
+    <Login></Login>
+  
   );
 }
 
